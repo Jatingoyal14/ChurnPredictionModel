@@ -1,4 +1,4 @@
-# 🔍 Customer Churn Prediction System
+#  Prediction System
 
 A complete machine learning system for predicting customer churn with an interactive Streamlit web interface.
 
